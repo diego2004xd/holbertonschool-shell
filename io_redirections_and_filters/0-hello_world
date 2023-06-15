@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod > io_redirections_and_filters
+chmod > cat -e Hello, World$
