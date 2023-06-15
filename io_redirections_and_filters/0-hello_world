@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ls > hecho "hello, world"
+chmod "hello, world ">" 
